@@ -16,3 +16,5 @@ Steps to init project:
 git commit --amend -m "your message"
 git push --force origin main
 
+- Shirt not rendered issue: In case of <mesh> or <Decal> broken, you'll need to reinstall drei package `npm install @react-thre
+e/drei --latest`, also removed map-anisotropy={16} as it is no longer working
