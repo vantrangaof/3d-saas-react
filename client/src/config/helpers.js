@@ -11,6 +11,7 @@ export const downloadCanvasToImage = () => {
 };
 
 export const reader = (file) =>
+  // eslint-disable-next-line no-unused-vars
   new Promise((resolve, reject) => {
     const fileReader = new FileReader();
     fileReader.onload = () => resolve(fileReader.result);
