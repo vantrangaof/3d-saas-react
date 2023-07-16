@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useSnapshot } from 'valtio'
 import state from '../store'
 
