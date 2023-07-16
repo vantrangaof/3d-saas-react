@@ -23,3 +23,9 @@ git push --force origin main
 
 - Shirt not rendered issue: In case of <mesh> or <Decal> broken, you'll need to reinstall drei package `npm install @react-thre
 e/drei --latest`, also removed map-anisotropy={16} as it is no longer working
+
+- If you encounter issues while deploying server, you might need to remove the package-lock.json
+
+- You can host the web app on a backend server such as [render.com](https://render.com/)
+
+- If the AIPicker doesn't work, it could be due to the expiry of OpenAI key
