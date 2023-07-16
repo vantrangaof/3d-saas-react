@@ -1,4 +1,4 @@
-## This is a React with Vite project
+## This is a full stack project using React + Vite, NodeJS Express
 
 Steps to init project:
 
@@ -29,3 +29,6 @@ e/drei --latest`, also removed map-anisotropy={16} as it is no longer working
 - You can host the web app on a backend server such as [render.com](https://render.com/)
 
 - If the AIPicker doesn't work, it could be due to the expiry of OpenAI key
+
+
+Shout out to JS Mastery for the instruction
