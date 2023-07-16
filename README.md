@@ -13,6 +13,7 @@ How to install Tailwind in React: [view this article](https://www.freecodecamp.o
 
 - To run the project, cd to the project directory (in this case is the `client` folder)
 
+- Dependencies on server side ```npm intall cloudinary cors dotenv express mongoose nodemon openai```
 
 ## Notes:
 
